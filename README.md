@@ -7,7 +7,7 @@
 
 ## Configuration Settings
 
-1. It is recommended to run on NodeJS 16.14.2.
+It is recommended to run on NodeJS 16.14.2.
 
 ## Installation
 
