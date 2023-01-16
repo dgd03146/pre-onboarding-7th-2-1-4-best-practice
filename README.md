@@ -1,5 +1,3 @@
-# 
-
 # Vehicle Information Filtering Inquiry
 
 ## Deployment link
